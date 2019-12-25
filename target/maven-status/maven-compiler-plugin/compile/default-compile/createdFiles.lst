@@ -1,0 +1,5 @@
+com\oracle\utl\RestUtil.class
+com\oracle\bean\Row.class
+com\oracle\bean\Cell.class
+com\oracle\bean\JsonRootBean.class
+com\oracle\osacs\CustomStage.class
